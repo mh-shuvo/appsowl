@@ -1,0 +1,19 @@
+{
+	"version":"1.0",
+	"release_date":"2019-05-29",
+	"plugin_name":"multiple_payment_method",
+	"description":"Multiple Payment Method",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+		"AddPurchaseMultiPaymentInsert":"view",
+		"AddSalesMultiPaymentInsert":"class",
+		"AddPurchaseReturnMultiPaymentInsert":"class"
+		
+	},
+	"required":{
+		
+	}
+}

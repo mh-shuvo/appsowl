@@ -1,0 +1,16 @@
+{
+	"version":"1.0",
+	"release_date":"2019-04-15",
+	"plugin_name":"accounts",
+	"description":"Accounts",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+		
+	},
+	"required":{
+		
+	}
+}

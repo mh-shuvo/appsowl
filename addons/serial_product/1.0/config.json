@@ -1,0 +1,31 @@
+{
+	"version":"1.0",
+	"release_date":"2019-04-15",
+	"plugin_name":"serial_product",
+	"description":"Product Serial Based Product",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+		//"addProdductEnableSerial":"view",
+		//"addPurchaseSearchSerialProduct":"view",
+		//"addPurchaseSearchSerialProductJS":"view",
+		//"AddPurchaseProductListJS":"view",
+		//"AddPurchaseRowJS":"view",
+		//"addPurchaseSearchSerialNumberJS":"view",
+		//"addPurchaseSearchSerialNumberShowJS":"view",
+		//"AddSalesProductListJS":"view",
+		//"AddSalesRowJS":"view",
+		//"AddSalesRowQuantityJS":"view",
+		//"GetSalesProductListSearch":"class",
+		//"addSalesSerialDataInput":"class",
+		//"GetStockReportData":"class",
+		//"GetStockReportFilter":"class",
+		//"addPurchaseSerialDataInput":"class",
+		//"addProdductEnableSerialInsert":"class"
+	},
+	"required":{
+		
+	}
+}

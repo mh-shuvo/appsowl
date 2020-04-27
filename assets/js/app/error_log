@@ -1,0 +1,6 @@
+[31-Oct-2019 12:27:57 Asia/Dhaka] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/cpanel/php/sessions/ea-php56) failed: Permission denied (13) in /home/appsowl/public_html/ASEngine/ASSession.php on line 23
+[01-Nov-2019 09:20:39 Asia/Dhaka] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/cpanel/php/sessions/ea-php56) failed: Permission denied (13) in /home/appsowl/public_html/ASEngine/ASSession.php on line 23
+[02-Nov-2019 08:05:18 Asia/Dhaka] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/cpanel/php/sessions/ea-php56) failed: Permission denied (13) in /home/appsowl/public_html/ASEngine/ASSession.php on line 23
+[02-Nov-2019 16:54:09 Asia/Dhaka] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/cpanel/php/sessions/ea-php56) failed: Permission denied (13) in /home/appsowl/public_html/ASEngine/ASSession.php on line 23
+[05-Nov-2019 11:04:20 Asia/Dhaka] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/cpanel/php/sessions/ea-php56) failed: Permission denied (13) in /home/appsowl/public_html/ASEngine/ASSession.php on line 23
+[06-Nov-2019 12:21:17 Asia/Dhaka] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/cpanel/php/sessions/ea-php56) failed: Permission denied (13) in /home/appsowl/public_html/ASEngine/ASSession.php on line 23

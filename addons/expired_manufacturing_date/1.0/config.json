@@ -1,0 +1,18 @@
+{
+	"version":"1.0",
+	"release_date":"2019-05-29",
+	"plugin_name":"expired_manufacturing_date",
+	"description":"Expired & Manufacturing Date",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+		},
+	"structure":{
+		"AddPurchaseRowHtml":"view",
+		"AddPurchaseRowJS":"view",
+		"add_purchase_manufacturing_expired_date_insert":"class"
+	},
+	"required":{
+		
+	}
+}

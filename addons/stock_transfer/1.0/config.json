@@ -1,0 +1,16 @@
+{
+	"version":"1.0",
+	"release_date":"2019-06-24",
+	"plugin_name":"stock_transfer",
+	"description":"Stock Transfer",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+	
+	},
+	"required":{
+		
+	}
+}

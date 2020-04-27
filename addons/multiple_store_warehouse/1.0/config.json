@@ -1,0 +1,38 @@
+{
+	"version":"1.0",
+	"release_date":"2019-05-29",
+	"plugin_name":"multiple_store_warehouse",
+	"description":"Multiple Store & Warehouse",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+		"test_store_view_addon":"view",
+		"stock_report_store_html":"view",
+		"stock_report_store_js":"view",
+		"product_purchase_report_store_html":"view",
+		"product_purchase_report_store_js":"view",
+		"product_sale_report_store_html":"view",
+		"product_sale_report_store_js":"view",
+		"vat_report_store_html":"view",
+		"vat_report_store_js":"view",
+		"add_purchase_store_html":"view",
+		"add_purchase_store_insert":"class",
+		"add_purchase_store_validation_check":"class",
+		"create_user_store_html":"view",
+		"create_user_store_insert":"class",
+		"accounts_income_store_html":"view",
+		"accounts_expense_store_html":"view",
+		"add_stock_transfer_from_store_html":"view",
+		"add_stock_transfer_to_store_html":"view",
+		"AddPurchaseTransactionStoreID":"class",
+		"test_store_class_addon":"class",
+		"add_stock_adjustment_store_html":"view",
+		"purchase_payment_report_store_html":"view",
+		"stock_adjustment_report_store_html":"view"
+	},
+	"required":{
+		
+	}
+}

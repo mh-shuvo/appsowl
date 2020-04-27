@@ -1,0 +1,16 @@
+{
+	"version":"1.0",
+	"release_date":"2019-04-15",
+	"plugin_name":"advance_purchase",
+	"description":"Advance Purchase",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+		"advance_pos_table":"view"
+	},
+	"required":{
+		
+	}
+}

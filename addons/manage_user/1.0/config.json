@@ -1,0 +1,17 @@
+{
+	"version":"1.0",
+	"release_date":"2019-05-29",
+	"plugin_name":"manage_user",
+	"description":"Manage User",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+		"manage_user":"view",
+		"manage_user":"class",
+	},
+	"required":{
+		
+	}
+}

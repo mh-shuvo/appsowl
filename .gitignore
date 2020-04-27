@@ -1,0 +1,7 @@
+/.idea
+/system/.idea
+/vendor
+/system/vendor
+.DS_Store
+documentation
+.php_cs.cache

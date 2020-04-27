@@ -1,0 +1,16 @@
+{
+	"version":"1.0",
+	"release_date":"2019-05-29",
+	"plugin_name":"due_sale",
+	"description":"Due Sale",
+	"change_log":"Stable Version Release",
+	"install":{
+		"install":"none"
+	},
+	"structure":{
+	
+	},
+	"required":{
+		
+	}
+}
