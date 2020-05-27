@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.0.0",
         "pimple/pimple": "~3.0",
-        "phpmailer/phpmailer": "^5.2",
+        "phpmailer/phpmailer": "^6.1",
         "hybridauth/hybridauth": "2.9.*",
         "milon/barcode": "^5.3",
         "dompdf/dompdf": "^0.8.2",
